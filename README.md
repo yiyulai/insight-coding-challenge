@@ -1,5 +1,4 @@
 Insight Data Science Engineering - Coding Challenge
-Yi-Yu Lai (casio.ellen@gmail.com)
 ================================================================================
 
 ## Introduction
@@ -12,3 +11,5 @@ The solution needs to be executed under Python 3.2+
 
 Specify the paths of input and output file in the shell script `run.sh`, and execute the shell script `run.sh` to get the results.
 
+
+— Yi-Yu Lai (casio.ellen@gmail.com)
