@@ -1,4 +1,4 @@
-Insight Data Science Engineering - Coding Challenge
+Insight Data Science - Coding Challenge
 ================================================================================
 
 ## Introduction
